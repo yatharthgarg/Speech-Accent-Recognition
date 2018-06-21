@@ -17,6 +17,8 @@ The common nature of the dataset makes it ideal for studying accent, being that 
 
 The dataset contained **.mp3** audio files which were converted to **.wav** audio files which allowed easy extraction of the **MFCC (Mel Frequency Cepstral Coefficients)** features to build a 2-D convolution neural network.
 
+The MFCC was fed into a 2-Dimensional Convolutional Neural Network (CNN) to predict the native language class.
+
 ### Execution
 To execute the code, please have all the dependencies installed on your system. Next, change execution directory to the src directory of the code and execute the following python commands - 
 
