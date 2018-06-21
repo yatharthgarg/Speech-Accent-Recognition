@@ -14,3 +14,21 @@ bags, and we will go meet her Wednesday at the train station.'
 ```
 
 The common nature of the dataset makes it ideal for studying accent, being that the wording is provided, and the recording quality is (nearly) uniform across all speakers. Since the dataset was large in the terms of size (approximately 2GB) but the samples were less, so I worked mainly on 3 most spoken accents i.e. English, Mandarin and Arabic.
+
+The dataset contained **.mp3** audio files which were converted to **.wav** audio files which allowed easy extraction of the **MFCC (Mel Frequency Cepstral Coefficients)** features to build a 2-D convolution neural network.
+
+### Execution
+To execute the code, please have all the dependencies installed on your system. Next, change execution directory to the src directory of the code and execute the following python commands - 
+
+• To download language metadata from [The Speech Accent Archive] (http://accent.gmu.edu/index.php) and download audio files:
+```
+python fromwebsite.py bio_data.csv mandarin english arabic
+```
+• Run getaudio.py to download audio files to the audio directory. All audio files listed in bio_metadata.csv will be downloaded.
+```
+python getaudio.py bio_data.csv
+```
+• Run trainmodel.py to train the CNN.
+```
+python trainmodel.py bio_data.csv model5
+```
