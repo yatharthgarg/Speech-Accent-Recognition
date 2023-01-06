@@ -61,3 +61,14 @@ The final accuracies are: -
 
 ### References
 • [Morgan Bryant, Amanda Chow & Sydney Li Classification of Accents of English Speakers by Native Language](http://cs229.stanford.edu/proj2014/Morgan%20Bryant,%20Amanda%20Chow,%20Sydney%20Li,%20Classification%20of%20Accents%20of%20English%20Speakers%20by%20Native%20Language.pdf)
+(1This article focuses on how to diagnose the mother's language of the speakers in different parts of the world with several examples. In this article, we ask the speakers who are their mother tongue other than English by reading the text of the paste and with the analysis of the audio file of their sound to recognize their mother tongue. 
+2)همان طور که قبلا نیز اشاره کردیم این مقاله با استفاده از یک متن خاص و با انالیز و تجزیه تحلیل اوا ها و هجا در فایل صوتی که از گوینده گرفتیم این متن به ما در تشخیص زبان مادری شون کمک کرد نواوری که می توان انجام داد این است که به جای خواندن یک متن از قلا اماده شده از یک متن شعر و یا اهنگ استفاده کرد در مقاله افراد مورد ازمایش فقط اقا بودند که ما پیشنهاد کردیم از کوکدکان و خانم ها نیز باشه 
+
+
+معرفی خود 
+ثنا گلمرزی هستم دانشجوی ارشد مهندسی پزشکی گرایش بیوالکتریک دانشگاه تهران جنوب 
+کارشناس مهندسی پزشکی از دانشگاه ارومیه 
+دارای مدارک ناظر فنی توزیع و تولید 
+دارای مدرک کالیبراسیون دستگاه های پزشکی شرکت صاایران 
+دارای مدرک یادگیری ماشین 
+دارای مدرک فتوشاپ حرفه ای
